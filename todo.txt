@@ -1,0 +1,7 @@
+[ ] Change caps-lock key to esc
+[ ] Change the color of uxterm to black
+[ ] Figure out the "Error: status_command not found or is missing library dependency (exit 127)" for i3status
+[ ] Get shell-gpt to work (you probably didn't copy the openAPI key correctly)
+[ ] Figure out how to get copy-paste to work 
+[ ] Fix the over-spinning fans 
+[ ] Update install script 
